@@ -1,3 +1,4 @@
 .history
 *.vcd
 *.v.out
+.gitignore

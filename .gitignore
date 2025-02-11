@@ -1,1 +1,3 @@
 .history
+*.vcd
+*.v.out

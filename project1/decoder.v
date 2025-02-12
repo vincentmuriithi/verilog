@@ -26,8 +26,8 @@ module decoder1to2(A,D);
 input A;
 output [1:0] D;
 
-assign D[0] = ~A;
-assign D[1] = A;
+assign D[1] = ~A;
+assign D[0] = A;
 
 
 endmodule

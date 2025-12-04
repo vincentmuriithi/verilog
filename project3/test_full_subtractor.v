@@ -1,5 +1,5 @@
 `timescale 1ns/1ns
-`include "full_substractor.v"
+`include "full_subtractor.v"
 
 module test_full_subtractor;
 reg a, b, c;
